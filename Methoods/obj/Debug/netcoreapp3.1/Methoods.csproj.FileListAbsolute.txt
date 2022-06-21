@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\bin\Debug\netcoreapp3.1\Methoods.exe
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\bin\Debug\netcoreapp3.1\Methoods.deps.json
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\bin\Debug\netcoreapp3.1\Methoods.runtimeconfig.json
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\bin\Debug\netcoreapp3.1\Methoods.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\bin\Debug\netcoreapp3.1\Methoods.dll
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\bin\Debug\netcoreapp3.1\Methoods.pdb
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.dll
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.pdb
+C:\Users\HP\Desktop\CodeHomeWork\Methoods\Methoods\obj\Debug\netcoreapp3.1\Methoods.genruntimeconfig.cache

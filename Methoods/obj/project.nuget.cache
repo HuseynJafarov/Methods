@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyqKEb+79u7smmjqBct5N/bRXaTlQpHcRTBUhLLyEgVmDSUQWHGAPU5sFlXLeOHa1GrmNRdA4RRypLcfyjkUkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\CodeHomeWork\\Methoods\\Methoods\\Methoods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
